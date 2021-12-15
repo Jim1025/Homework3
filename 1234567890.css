@@ -1,0 +1,35 @@
+.row {
+  content: "";
+  display: table;
+  clear: both;
+}
+.lab {
+	float: left;
+	width: 50%;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+.border {
+	border-style: solid;
+	border-color: violet;
+}
+h1.margin-right {
+	margin-right: 150px;
+}
+div.margin-right {
+	margin-right: 150px;
+}
+
+div.leftborder {
+	padding-left: 50%;
+}	
+div.background-image {
+	background-image: url("background.jpg");
+	border-style: solid;
+	border-color: green;
+}
+img.margin {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 35%;
+}
